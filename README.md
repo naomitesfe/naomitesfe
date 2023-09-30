@@ -1,5 +1,4 @@
-### Hi there 👋 
-I'm a computer engineer with a passion for cloud computing, AI and software development. I’m currently learning and working on projects related to Azure and AWS cloud platforms, as well as developing web applications using various technologies.
+### Hi there 👋 I'm a computer engineer with a passion for cloud computing, AI and software development. I’m currently learning and working on projects related to Azure and AWS cloud platforms, as well as developing web applications using various technologies.
 
 <!--
 **naomitesfe/naomitesfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
